@@ -1,0 +1,51 @@
+[
+    {
+        "sender_email": "royalmailinvoices@royalmail.com",
+        "folder_name": "RoyalMail",
+        "file_name": "RoyalMail",
+        "month_offset": 1,
+        "day_offset": 0
+    },
+    {
+        "sender_email": "ashjohnw@gmail.com",
+        "folder_name": "Worms",
+        "file_name": "AA",
+        "month_offset": 0,
+        "day_offset": 0
+    },
+    {
+        "sender_email": "quickbooks@notification.intuit.com",
+        "folder_name": "",
+        "file_name": "Accountancy",
+        "month_offset": 0,
+        "day_offset": 0
+    },
+    {
+        "sender_email": "salesinvoices@weareprocarrier.com",
+        "folder_name": "ProCarrier",
+        "file_name": "ProCarrier",
+        "month_offset": 0,
+        "day_offset": 0
+    },
+    {
+        "sender_email": "accounts@kitepackaging.co.uk",
+        "folder_name": "",
+        "file_name": "Kitepackaging",
+        "month_offset": 0,
+        "day_offset": 0
+    },
+    {
+        "sender_email": "messaging-service@post.xero.com",
+        "folder_name": "",
+        "file_name": "WPMaintain",
+        "month_offset": 0,
+        "day_offset": 0
+    },
+    {
+        "sender_email": "williamhobbs.unitedkingdom@gmail.com",
+        "folder_name": "Labour",
+        "file_name": "Labour",
+        "month_offset": 0,
+        "day_offset": 0
+    }
+]

@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\wormsdirectmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:wormsdirectmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\services\\emailattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:services\\emailattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\helpers\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:helpers\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\viewmodels\\invoicesmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:viewmodels\\invoicesmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\views\\invoicesmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:views\\invoicesmanagementview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\views\\invoicesmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:views\\invoicesmanagementview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\services\\invoiceprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:services\\invoiceprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\models\\senderrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:models\\senderrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\helpers\\changelogviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:helpers\\changelogviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\helpers\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:helpers\\paths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\helpers\\iconloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:helpers\\iconloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\helpers\\iniconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:helpers\\iniconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|c:\\users\\alexander\\source\\repos\\wormsdirectmanagement\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D326661-4EEE-40A2-9C3E-4B0E3AF08680}|WormsDirectManagement.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoicesManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\ViewModels\\InvoicesManagementViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\InvoicesManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\ViewModels\\InvoicesManagementViewModel.cs",
+              "RelativeToolTip": "ViewModels\\InvoicesManagementViewModel.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:36:52.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T08:09:56.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:09:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WormsDirectManagement",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\WormsDirectManagement.csproj",
+              "RelativeDocumentMoniker": "WormsDirectManagement.csproj",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\WormsDirectManagement.csproj",
+              "RelativeToolTip": "WormsDirectManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T08:19:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogViewer.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\LogViewer.cs",
+              "RelativeDocumentMoniker": "Helpers\\LogViewer.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\LogViewer.cs",
+              "RelativeToolTip": "Helpers\\LogViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:24:29.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailAttachmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Services\\EmailAttachmentService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailAttachmentService.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Services\\EmailAttachmentService.cs",
+              "RelativeToolTip": "Services\\EmailAttachmentService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAjwDsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:25:21.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoicesManagementView.xaml",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Views\\InvoicesManagementView.xaml",
+              "RelativeDocumentMoniker": "Views\\InvoicesManagementView.xaml",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Views\\InvoicesManagementView.xaml",
+              "RelativeToolTip": "Views\\InvoicesManagementView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T08:32:19.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoicesManagementView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Views\\InvoicesManagementView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\InvoicesManagementView.xaml.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Views\\InvoicesManagementView.xaml.cs",
+              "RelativeToolTip": "Views\\InvoicesManagementView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:32:19.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Services\\InvoiceProcessor.cs",
+              "RelativeDocumentMoniker": "Services\\InvoiceProcessor.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Services\\InvoiceProcessor.cs",
+              "RelativeToolTip": "Services\\InvoiceProcessor.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:25:35.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SenderRule.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Models\\SenderRule.cs",
+              "RelativeDocumentMoniker": "Models\\SenderRule.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Models\\SenderRule.cs",
+              "RelativeToolTip": "Models\\SenderRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:24:57.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T08:20:54.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangelogViewer.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\ChangelogViewer.cs",
+              "RelativeDocumentMoniker": "Helpers\\ChangelogViewer.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\ChangelogViewer.cs",
+              "RelativeToolTip": "Helpers\\ChangelogViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:24:41.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:24:02.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Paths.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\Paths.cs",
+              "RelativeDocumentMoniker": "Helpers\\Paths.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\Paths.cs",
+              "RelativeToolTip": "Helpers\\Paths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:23:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IconLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\IconLoader.cs",
+              "RelativeDocumentMoniker": "Helpers\\IconLoader.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\IconLoader.cs",
+              "RelativeToolTip": "Helpers\\IconLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:23:33.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IniConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\IniConfig.cs",
+              "RelativeDocumentMoniker": "Helpers\\IniConfig.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Helpers\\IniConfig.cs",
+              "RelativeToolTip": "Helpers\\IniConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:23:16.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:22:10.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Alexander\\source\\repos\\WormsDirectManagement\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:21:20.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

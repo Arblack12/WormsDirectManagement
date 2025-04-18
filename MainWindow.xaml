@@ -1,0 +1,11 @@
+﻿<Window x:Class="WormsDirectManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:views="clr-namespace:WormsDirectManagement.Views"
+        Title="Worms Direct Management" Height="600" Width="900">
+    <TabControl>
+        <TabItem Header="Invoices Management">
+            <views:InvoicesManagementView/>
+        </TabItem>
+    </TabControl>
+</Window>
